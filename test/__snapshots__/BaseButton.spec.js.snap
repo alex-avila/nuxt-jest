@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseButton renders correctly 1`] = `
+<button
+  class="button is-primary"
+>
+  Add Note
+</button>
+`;
