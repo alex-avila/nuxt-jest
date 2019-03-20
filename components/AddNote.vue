@@ -16,7 +16,7 @@
         :disabled="!note.length"
         @click="$emit('addNote', $refs.editor)"
       >
-        Start a New Note
+        Add a New Note
       </base-button>
     </div>
   </div>
